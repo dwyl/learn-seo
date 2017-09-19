@@ -66,7 +66,7 @@ Search engines generally only display the first **65-75** characters of the
 _really_ need to have it longer to get an accurate title it may be
 worthwhile, but at least make sure the first 65-75 characters give a good
 idea of the page, so when the user sees the search result they get the idea
-of what the page is. Depending on what you are trying to rank for, 
+of what the page is. Depending on what you are trying to rank for,
 it sometimes makes sense to place your brand at the beginning.
 
 For best SEO, keywords should go close to the front, for example "Web
@@ -84,3 +84,20 @@ __Use human-readable urls.__ Try to keep numbers, weird symbols and nonsensical 
 __Use keywords, but don't overuse them!__ If you're targeting a specific set of keywords, including them in the url can help to improve search rankings. On the flipside, if the url is _just_ a series of keywords with no relation to page content, then search engines will sometimes tag the site as spam and ranking will take a hit.
 __Keep it short.__ Shorter URLs mean nicer links for emailing and inclusion on other sites. They also allow the whole url to be displayed with search results.
 __Use hyphens to separate words.__ Underscores and other separators can be intepreted incorrectly by search engines. Hyphens (-) are the standard.
+
+## Images
+Search engine crawlers can't _see_ images unless they come with alt (alternative)
+text :eyes:
+
+Although it can be useful for SEO to include keywords in the alt text of images,
+as with urls, this should __only__ be done if the words fit with the image.
+First and foremost alt text should be a description of the image:
+
+```
+This:
+<img src="/happy-squirrel.jpg" alt="A joyous squirrel eating an acorn." />
+```
+```
+Not this:
+<img src="/happy-squirrel" alt="Super cheap acorns sold here! Buy ten get one free" />
+```
