@@ -102,13 +102,23 @@ __Keep it short:__ Shorter URLs mean nicer links for emailing and inclusion on o
 
 __Use hyphens to separate words:__ Underscores and other separators can be intepreted incorrectly by search engines. Hyphens (-) are the standard.
 
+__Each page should have one URL:__ Repeating content with different URLs will
+lead the search engine to consider them as two competing pages rather than
+categorizing them as the same page, linked to multiple times. If you want to
+have a different link for some reason you can use a 301 status code and redirect
+the user to the already existing page, or you can put a `<link>` tag with
+`rel="canonical"` in the head of the duplicate page. This will lead the search
+engine to treat the page as a copy of the linked page. Like so:
+
+`<link rel="canonical" href="https://dwyl.com/super-awesome-page"/>`
+
 ## Images
 Search engine crawlers can't _see_ images unless they come with alt (alternative)
 text :eyes:
 
-Although it can be useful for SEO to include keywords in the alt text of images,
-as with urls, this should __only__ be done if the words fit with the image.
-First and foremost alt text should be a description of the image:
+Although it _can_ sometimes be useful for SEO to include keywords in the alt
+text of images, as with urls this should __only__ be done if the words fit with
+the image. __First and foremost alt text should be a description of the image__:
 
 ```
 This:
