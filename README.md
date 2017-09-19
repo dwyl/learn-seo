@@ -129,6 +129,30 @@ Not this:
 <img src="/happy-squirrel.jpg" alt="Super cheap acorns sold here! Buy ten get one free" />
 ```
 
+### What not to do
+
+We've given a bit of advise of thing you _should_ be doing in order to increase
+your site's traffic from search engines, but there are also a few things you
+should _avoid_ doing.
+
++ **Don't** bury text inside rich media. If you put your search engine relevant
+content inside of things like flash and javascript the search engine robots
+won't see them.
++ **Make sure** you're using the appropriate spelling for your target audience.
+If you are mostly looking to be found in the UK, spell "colour" with a `u`, if
+you're aiming for USA then leave the `u` out.
++ **Don't** use search forms as the main form of navigation. Search engine
+robots don't fill out forms, so if you want the robots to see it, you need to
+have a proper link to it! Make sure the search feature is supplementary rather
+than the only form of navigation.
++ **Don't** hide content behind a login. Again, search engine robots don't go
+through forms, so if all of your search relevant content is hidden behind a log
+in, then it will never get crawled!
++ **Don't** use unclear link text. The body of your links should be clear and
+semantic. `click here` is unhelpful to users, and unclear to search engines. A
+clear, semantic link such as: `this video about Search Engines on youtube` is
+much better for UX, accessibility and SEO.
+
 ## Further reading
 
 **Beginner's guide to SEO - Moz:**
