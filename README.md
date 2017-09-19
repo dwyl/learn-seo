@@ -85,24 +85,24 @@ so if you concentrate on keeping urls short and descriptive, it should translate
 into great SEO.
 
 #### Guidelines for a great URL
-__Be descriptive:__ If you can't easily tell the purpose of a page from the
+**Be descriptive:** If you can't easily tell the purpose of a page from the
 URL, you're probably doing something wrong.
 
-__Use human-readable urls:__ Try to keep numbers, weird symbols and nonsensical
+**Use human-readable urls:** Try to keep numbers, weird symbols and nonsensical
 text to a minimum. Again, if the url isn't easy to interpret, _something is
 wrong_.  
 
-__Use keywords, but don't overuse them:__ If you're targeting a specific set of
+**Use keywords, but don't overuse them:** If you're targeting a specific set of
 keywords, including them in the url can help to improve search rankings. On the
 flipside, if the url is _just_ a series of keywords with no relation to page
 content, then search engines will sometimes tag the site as spam and ranking
 will take a hit.
 
-__Keep it short:__ Shorter URLs mean nicer links for emailing and inclusion on other sites. They also allow the whole url to be displayed with search results.
+**Keep it short:** Shorter URLs mean nicer links for emailing and inclusion on other sites. They also allow the whole url to be displayed with search results.
 
-__Use hyphens to separate words:__ Underscores and other separators can be intepreted incorrectly by search engines. Hyphens (-) are the standard.
+**Use hyphens to separate words:** Underscores and other separators can be intepreted incorrectly by search engines. Hyphens (-) are the standard.
 
-__Each page should have one URL:__ Repeating content with different URLs will
+**Each page should have one URL:** Repeating content with different URLs will
 lead the search engine to consider them as two competing pages rather than
 categorizing them as the same page, linked to multiple times. If you want to
 have a different link for some reason you can use a 301 status code and redirect
@@ -117,8 +117,8 @@ Search engine crawlers can't _see_ images unless they come with alt (alternative
 text :eyes:
 
 Although it _can_ sometimes be useful for SEO to include keywords in the alt
-text of images, as with urls this should __only__ be done if the words fit with
-the image. __First and foremost alt text should be a description of the image__:
+text of images, as with urls this should **only** be done if the words fit with
+the image. **First and foremost alt text should be a description of the image**:
 
 ```
 This:
@@ -131,16 +131,17 @@ Not this:
 
 ## Further reading
 
-[Beginner's guide to SEO - Moz](https://moz.com/beginners-guide-to-seo)
+**Beginner's guide to SEO - Moz:**
+https://moz.com/beginners-guide-to-seo
 
-[Steps to a Google-friendly site - Google](https://support.google.com/webmasters/answer/40349?hl=en)
+**Steps to a Google-friendly site - Google:** https://support.google.com/webmasters/answer/40349?hl=en
 
-[Google SEO starter guide - Google](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+**Google SEO starter guide - Google:** https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
 
 ## SEO tools
 
-__Google keyword planner__ http://adwords.google.com/keywordplanner
+**Google keyword planner:** http://adwords.google.com/keywordplanner
 
-__Google trends__ https://trends.google.com/trends/
+**Google trends:** https://trends.google.com/trends/
 
-__Moz keyword explorer__ https://moz.com/explorer
+**Moz keyword explorer:** https://moz.com/explorer
