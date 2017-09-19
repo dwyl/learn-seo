@@ -112,7 +112,7 @@ engine to treat the page as a copy of the linked page. Like so:
 
 `<link rel="canonical" href="https://dwyl.com/super-awesome-page"/>`
 
-## Images
+### Images
 Search engine crawlers can't _see_ images unless they come with alt (alternative)
 text :eyes:
 
@@ -126,5 +126,5 @@ This:
 ```
 ```
 Not this:
-<img src="/happy-squirrel" alt="Super cheap acorns sold here! Buy ten get one free" />
+<img src="/happy-squirrel.jpg" alt="Super cheap acorns sold here! Buy ten get one free" />
 ```
