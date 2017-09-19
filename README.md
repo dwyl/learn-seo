@@ -50,6 +50,28 @@ ultimate consumers are your users, not search engines.
 
 >_[From google's own guide to SEO](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)_
 
+## Titles
+`<title>Learn Search Engine Optimisation (SEO) - dwyl</title>`
+
+First and foremost your titles should be useful and readable, not just a
+collection of keywords. They should also be unique for each page (this helps
+with search engines knowing that it's a different page).
+
+The title tag should be contained within the `<head>` tag of the HTML
+document, it is what will be displayed in the tab on your browser when the
+page is open, and what the title of the entry in the search results will be.
+
+Search engines generally only display the first **65-75** characters of the
+`<title>` so it's best to make sure your title is within that limit. If you
+_really_ need to have it longer to get an accurate title it may be
+worthwhile, but at least make sure the first 65-75 characters give a good
+idea of the page, so when the user sees the search result they get the idea
+of what the page is. Depending on what you are trying to rank for, 
+it sometimes makes sense to place your brand at the beginning.
+
+For best SEO, keywords should go close to the front, for example "Web
+development agency" as opposed to "Fun creative agency specialising in web development".
+
 ## URLs
 URLs play an important role in both user experience and search engine optimisation.
 Luckily search engines are engineered to like the same types of url as humans,
