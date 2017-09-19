@@ -101,3 +101,11 @@ will take a hit.
 __Keep it short:__ Shorter URLs mean nicer links for emailing and inclusion on other sites. They also allow the whole url to be displayed with search results.
 
 __Use hyphens to separate words:__ Underscores and other separators can be intepreted incorrectly by search engines. Hyphens (-) are the standard.
+
+__Each page should have one URL:__ Repeating content with different URLs will
+lead the search engine to consider them as two competing pages rather than
+categorizing them as the same page, linked to multiple times. If you want to
+have a different link for some reason you can use a 301 status code and redirect
+the user to the already existing page, or you can put a `<link>` tag with `rel="canonical"` in the head of the duplicate page. This will lead the search engine to treat the page as a copy of the linked page. Like so:
+
+`<link rel="canonical" href="https://dwyl.com/super-awesome-page"/>`
