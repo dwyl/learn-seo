@@ -128,3 +128,19 @@ This:
 Not this:
 <img src="/happy-squirrel.jpg" alt="Super cheap acorns sold here! Buy ten get one free" />
 ```
+
+## Further reading
+
+[Beginner's guide to SEO - Moz](https://moz.com/beginners-guide-to-seo)
+
+[Steps to a Google-friendly site - Google](https://support.google.com/webmasters/answer/40349?hl=en)
+
+[Google SEO starter guide - Google](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
+## SEO tools
+
+__Google keyword planner__ http://adwords.google.com/keywordplanner
+
+__Google trends__ https://trends.google.com/trends/
+
+__Moz keyword explorer__ https://moz.com/explorer
