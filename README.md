@@ -52,6 +52,9 @@ ultimate consumers are your users, not search engines.
 
 ## URLs
 URLs play an important role in both user experience and search engine optimisation.
+Luckily search engines are engineered to like the same types of url as humans,
+so if you concentrate on keeping urls short and descriptive, it should translate
+into great SEO.
 
 ### Guidelines for a great URL
 __Be descriptive.__ If you can't easily tell the purpose of a page from the URL, you're probably doing something wrong.
