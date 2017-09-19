@@ -42,4 +42,10 @@ website has as high of a chance as possible to be high result in searches
 relevant to our topic. It's still important to remember to keep
 [User Experience](https://en.wikipedia.org/wiki/User_experience_design)
 at the heart of all of our decisions, and make sure we are not
-compromising UX for the sake of SEO.
+compromising UX for the sake of SEO just as google themselves advocate:
+
+> Search engine optimization is about putting your site's best foot
+forward when it comes to visibility in search engines, but your
+ultimate consumers are your users, not search engines.
+
+>_[From google's own guide to SEO](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)_
