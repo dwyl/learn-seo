@@ -31,14 +31,14 @@ trying to make sure it appears as high in the search results as possible for
 searches related to certain queries.
 
 Before looking into SEO too much it is useful to have a little understanding
-of the way searches on the web work for which we really recommend [this short
+of the way searches on the web work, for which we really recommend [this short
 video on how google searches work](https://www.youtube.com/watch?v=BNHR6IQJGZs).
 [
 ![screen shot of a youtube video with the title "How Search Works by Matt Cutts"](https://user-images.githubusercontent.com/21139983/30594806-4808aa00-9d47-11e7-8267-fd8bad7304ad.png)
 ](https://www.youtube.com/watch?v=BNHR6IQJGZs).
 
 By understanding the way that searches work, we can try to make sure that our
-website has as high of a chance as possible to be high result in searches
+website has as high of a chance as possible to be a high result in searches
 relevant to our topic. It's still important to remember to keep
 [User Experience](https://en.wikipedia.org/wiki/User_experience_design)
 at the heart of all of our decisions, and make sure we are not
@@ -53,8 +53,8 @@ ultimate consumers are your users, not search engines.
 ## How do I do it?
 
 A lot of SEO is making a clear site with good quality content that users will
-engage with, but there are some basic tips you can do on your own site which
-will make sure that search engines will show your site in relevant searches.
+engage with, but
+there are some basic tips that can help to make sure that search engines show your site in relevant searches.
 
 ### Titles
 `<title>Learn Search Engine Optimisation (SEO) - dwyl</title>`
@@ -98,9 +98,11 @@ flipside, if the url is _just_ a series of keywords with no relation to page
 content, then search engines will sometimes tag the site as spam and ranking
 will take a hit.
 
-**Keep it short:** Shorter URLs mean nicer links for emailing and inclusion on other sites. They also allow the whole url to be displayed with search results.
+**Keep it short:** Shorter URLs mean nicer links for emailing and inclusion on
+other sites. They also allow the whole url to be displayed with search results.
 
-**Use hyphens to separate words:** Underscores and other separators can be intepreted incorrectly by search engines. Hyphens (-) are the standard.
+**Use hyphens to separate words:** Underscores and other separators can be
+intepreted incorrectly by search engines. Hyphens (-) are the standard.
 
 **Each page should have one URL:** Repeating content with different URLs will
 lead the search engine to consider them as two competing pages rather than
