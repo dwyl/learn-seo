@@ -164,6 +164,8 @@ https://moz.com/beginners-guide-to-seo
 
 **Google SEO starter guide - Google:** https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
 
+**Mastering SEO for Developers:** https://www.git-tower.com/blog/seo-for-developers/
+
 ## SEO tools
 
 **Google keyword planner:** http://adwords.google.com/keywordplanner
@@ -171,3 +173,7 @@ https://moz.com/beginners-guide-to-seo
 **Google trends:** https://trends.google.com/trends/
 
 **Moz keyword explorer:** https://moz.com/explorer
+
+**Keyword.com:** https://keyword.com/
+
+**Seobility:** https://www.seobility.net/en/
